@@ -6,9 +6,12 @@
 title: Wayment
 subtitle: 悠然见南山
 description: 擅长各项前端技能，深入研究移动端开发与前端性能。非专业视觉设计师。此为博客一枚。
+aboutme: 擅长各项前端技能，深入研究移动端开发与前端性能。非专业视觉设计师。此为博客一枚。
 author: Wayment Cold
+avatar: http://ogojj2b02.bkt.clouddn.com/111.png
 email: huiming210@gmail.com
-keywords: "前端,js"
+keywords: "iOS,Coco2d-x,Objective-C,Swift,Python,C,C++,Native,javascript,SDK,Nao,开发者,程序猿,,编程,代码,移动端,前端,单片机"
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
